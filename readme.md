@@ -1,9 +1,9 @@
 # WebWrapper Intro 简介
-Change your website into an Android app
+Change your website into an Android app <br/>
 把你的网站变成一个Android App
 
 ## Screenshots
-Screenshots are large in size, you may need to wait for a while before it is loaded...
+Screenshots are large in size, you may need to wait for a while before it is loaded...</br/>
 文件较大，加载可能需要几分钟...
 
 ![image](https://github.com/heyihujiu/WebWrapper/screenshot01.jpg)
@@ -13,7 +13,7 @@ Screenshots are large in size, you may need to wait for a while before it is loa
 ![image](https://github.com/heyihujiu/WebWrapper/screenshot05.jpg)
 
 ## GIF
-This GIF file is large, you may need to wait for a while before it is loaded...  
+This GIF file is large, you may need to wait for a while before it is loaded...<br/>  
 文件较大，加载可能需要几分钟...
 
 ![image](https://github.com/heyihujiu/WebWrapper/show.gif)
